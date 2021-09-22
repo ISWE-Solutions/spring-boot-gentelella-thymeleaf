@@ -1,4 +1,4 @@
-package com.iswesolutions.springbootapplication;
+package com.iswesolutions.springbootgentelellathymeleaf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

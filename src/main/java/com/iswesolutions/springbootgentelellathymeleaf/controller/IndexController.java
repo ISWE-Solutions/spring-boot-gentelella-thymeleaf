@@ -1,4 +1,4 @@
-package com.iswesolutions.springbootapplication.controller;
+package com.iswesolutions.springbootgentelellathymeleaf.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -6,11 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 /**
  * Created by IntelliJ IDEA.
  * Project : spring-boot-gentelella-thymeleaf
- * User: hendisantika
- * Email: hendisantika@gmail.com
- * Telegram : @hendisantika34
- * Date: 10/09/18
- * Time: 06.11
+ * Email: csiwale@iswesolutions.com
+ * Date: 20/09/2021
  * To change this template use File | Settings | File Templates.
  */
 
